@@ -3,3 +3,4 @@
 * [官方網站](https://froala.com/)
 * 這個範例放進 htdocs 下任一個資料夾應該就可以跑了
 * 這個範例只有把基本的 editor 裝起來並接上圖片上傳的接口
+* [線上展示頁](https://idben.github.io/froala-01/)
